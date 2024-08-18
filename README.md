@@ -1,4 +1,4 @@
-# ghost (chess-engine elo(1900-2000)) <br /><br />
+# ghost (chess-engine elo(2000-2200)) <br /><br />
 
 ## below are some links to some games to confirm the elo <br />
   1.) https://www.chess.com/game/computer/133732527<br />
